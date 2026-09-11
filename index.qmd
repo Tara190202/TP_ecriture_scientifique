@@ -122,11 +122,13 @@ set.seed(973)
 
 # Introduction
 
-- La question de la diversité des forêts tropicales fascine les écologues parce qu'elle a des enjeux très importants[@Gibson2011] et qu'elle est difficile à comprendre [@Wright2002b].
+- La question de la diversité des forêts tropicales fascine les écologues parce qu'elle a des enjeux très importants[@Gibson2011]--\> perte de diversité importante si perte des forêts tropicales et qu'elle est difficile à comprendre [@Wright2002b] -\> pleins de mécanismes mais aucun qui permet de vraiment bien comprendre.
 
-- Des modèles ont été publiés, c'est le cas du gradient de diversité latitudinale (LDG) est l’un des schémas mondiaux de richesse des espèces les plus reconnusndefineundefinedndefin
+- Le modèle neutre de Hubble permet non pas de comprendre masi de prédire la diversité des espèces dans une forêt tropicale
 
-- A l'heure des menaces sur la biodiversité [@Fadrique2026], une connaissance plus détaillée de la diversité des forêts très étudiées est utile.
+- Des modèles ont été publiés [@Liang2022] pour expliquer c'est le cas du gradient de diversité latitudinale (LDG) est l’un des schémas mondiaux de richesse des espèces les plus reconnus -\>
+
+- A l'heure des menaces sur la biodiversité [@Fadrique2026], une connaissance plus détaillée de la diversité des forêts très étudiées est utile –\> nombre d'espèces dans une forêt primaire irait vers une diminution
 
 # Matériel et méthodes
 
