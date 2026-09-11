@@ -122,9 +122,10 @@ set.seed(973)
 
 # Introduction
 
-# Matériel et méthodes 
+# Matériel et méthodes
 
-- Présentation du site de Paracou.
+Notre étude se concentre sur deux sites situés en Amérique du Sud
+Le site de l'étude s'est déroulé sur le site du Paracou situé en Guyane Française [@Gourlet-Fleury2004]
 
 ```{r}
 #| label: Paracou
@@ -132,7 +133,7 @@ library("tidyverse")
 paracou6 <- read_csv2("data/Paracou6.csv")
 ```
 
-- Présentation du site de BCI.
+Le site BCI est [@Raby2017]
 
 ```{r}
 #| label: BCI 
