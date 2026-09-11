@@ -122,10 +122,17 @@ set.seed(973)
 
 # Introduction
 
+- La question de la diversité des forêts tropicales fascine les écologues parce qu'elle a des enjeux très importants[@Gibson2011] et qu'elle est difficile à comprendre [@Wright2002b].
+
+- Des modèles ont été publiés [@Liang2022].
+
+- A l'heure des menaces sur la biodiversité [@Fadrique2026], une connaissance plus détaillée de la diversité des forêts très étudiées est utile.
+
 # Matériel et méthodes
 
-Notre étude se concentre sur deux sites situés en Amérique du Sud
-Le site de l'étude s'est déroulé sur le site du Paracou situé en Guyane Française [@Gourlet-Fleury2004]
+La comparaison de la diversité de nos deux sites d'études sont situés en Amérique du Sud:
+
+- Site du Paracou de Guyane Française [@Gourlet-Fleury2004]
 
 ```{r}
 #| label: Paracou
@@ -133,7 +140,7 @@ library("tidyverse")
 paracou6 <- read_csv2("data/Paracou6.csv")
 ```
 
-Le site BCI est [@Raby2017]
+- Site artificiel de l'île Barro Colorado[@Raby2017]
 
 ```{r}
 #| label: BCI 
@@ -149,6 +156,8 @@ BCI %>%
   metacommunity() ->
   BCI_50ha
 ```
+
+Les analyses sont réalisées avec R [@R] et le package divent [@Marcon2026a]
 
 # Résultats
 
@@ -174,3 +183,6 @@ paracou6 %>%
 ```
 
 # Discussion
+
+- @MacArthur1967 montrent mathématiquement que la richesse spécifique (le nombre d'espèces) d'une île est un équilibre dynamique entre le taux d'immigration et le taux d'extinction, ce dernier étant directement dicté par la taille de l'île.
+- BCI est une forêt secondarisée [@Raby2017]. Sa diversité pourrait être augmentée selon la théorie de la perturbation intermédiaire [@Connell1978].
