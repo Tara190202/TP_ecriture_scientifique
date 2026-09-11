@@ -124,7 +124,7 @@ set.seed(973)
 
 - La question de la diversité des forêts tropicales fascine les écologues parce qu'elle a des enjeux très importants[@Gibson2011] et qu'elle est difficile à comprendre [@Wright2002b].
 
-- Des modèles ont été publiés [@Liang2022].
+- Des modèles ont été publiés, c'est le cas du gradient de diversité latitudinale (LDG) est l’un des schémas mondiaux de richesse des espèces les plus reconnusndefineundefinedndefin
 
 - A l'heure des menaces sur la biodiversité [@Fadrique2026], une connaissance plus détaillée de la diversité des forêts très étudiées est utile.
 
