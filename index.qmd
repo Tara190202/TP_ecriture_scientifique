@@ -130,8 +130,7 @@ set.seed(973)
 
 # Matériel et méthodes
 
-La comparaison de la diversité de nos deux sites d'études sont situés en Amérique du Sud:
-
+- Pour comparer la diversité des deux sites de notre étude nous avons utilisé le logiciel R [@R] et le package divent [@Marcon2026a].
 - Site du Paracou de Guyane Française [@Gourlet-Fleury2004]
 
 ```{r}
@@ -156,8 +155,6 @@ BCI %>%
   metacommunity() ->
   BCI_50ha
 ```
-
-Les analyses sont réalisées avec R [@R] et le package divent [@Marcon2026a]
 
 # Résultats
 
