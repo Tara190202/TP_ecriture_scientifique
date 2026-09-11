@@ -121,8 +121,8 @@ set.seed(973)
 
 # Introduction
 
-#Matériel et méthodes 
+# Matériel et méthodes 
 
-#Résultats
+# Résultats
 
-#Discussion
+# Discussion
